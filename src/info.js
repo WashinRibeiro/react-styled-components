@@ -1,3 +1,5 @@
+// Esse arquivo seria como uma API
+
 export const extratoLista = {
   updates: [
     {
